@@ -1,2 +1,4 @@
-24 16 16 x1/wayland-cursor.png
-48 32 32 x2/wayland-cursor.png
+24 16 16 24/wayland-cursor.png
+36 24 24 36/wayland-cursor.png
+48 32 32 48/wayland-cursor.png
+72 48 48 72/wayland-cursor.png
